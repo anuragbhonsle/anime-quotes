@@ -3,4 +3,4 @@ A simple web app that displays **random motivational quotes from anime** every t
 - Express.js
 - EJS Templating
 - HTML + CSS
-  JavaScript (client-side)
+- JavaScript (client-side)
